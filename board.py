@@ -14,7 +14,7 @@ from Units.knight import Knight
 from Units.queen import Queen
 from Units.rook import Rook
 
-# t
+
 class Board():
     base_board = [[Piece.bR, Piece.bN, Piece.bB, Piece.bQ, Piece.bK, Piece.bB, Piece.bN, Piece.bR],
                   [Piece.bP, Piece.bP, Piece.bP, Piece.bP, Piece.bP, Piece.bP, Piece.bP, Piece.bP],
