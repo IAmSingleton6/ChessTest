@@ -85,7 +85,7 @@ class Board():
         return None
             
 
-    # TODO: implement castling s
+    # TODO: implement castling
     # TODO: add material_values and display removed pieces on each color's side
     # TODO: possibly display an eval bar
     # TODO: sound effect when piece is taken
